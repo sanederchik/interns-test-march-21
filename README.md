@@ -7,13 +7,6 @@
 ![image](https://user-images.githubusercontent.com/30187683/111162102-e2bf7780-85ac-11eb-9676-886302013f42.png)
 
 2. Нужно написать SQL-выражение, которое бы складывало полученные из п.1 данные в следующую таблицу:
-Название поля	Тип данных	Описание	Ключ?
-country_name	string	Название страны (Бразилия, Россия и т.д.)	PK
-data_date	date	Дата на графике	PK
-cases_cnt	numeric	Кол-во заражений на млн человек	
-deaths_cnt	numeric	Кол-во смертей на млн человек	
-tests_cnt	numeric	Кол-во тестов на млн человек	
-version_dt	datetime	Дата и время начала парсинга данных	PK
 
 ![image](https://user-images.githubusercontent.com/30187683/111163785-780f3b80-85ae-11eb-879c-b272891161fd.png)
 
